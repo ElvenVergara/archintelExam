@@ -319,7 +319,7 @@
                                       <v-checkbox
                                         v-model="competitor3"
                                         color="primary"
-                                        disable
+                                        disabled
                                       ></v-checkbox>
                                   </td>
 
@@ -341,7 +341,7 @@
                                       <v-checkbox
                                         v-model="competitor6"
                                         color="primary"
-                                        disable
+                                        disabled
                                       ></v-checkbox>
                                   </td>
                                   
