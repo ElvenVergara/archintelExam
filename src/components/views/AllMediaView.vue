@@ -9,7 +9,7 @@
 	              
 	          <div class="col">
 			  	<p>
-				  	<b>Walbro - All Media</b><br>
+				  	<b>Walbro - All Media Elven</b><br>
 				  	<span style="font-size:13px;color:gray;">This table shows recently researched articles for Walbro</span> 
 			  	</p>
 	          </div>
